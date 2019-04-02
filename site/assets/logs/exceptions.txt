@@ -1,0 +1,5 @@
+2019-03-12 11:32:06	admin_bruno	http://localhost/processwire-master/login/	Method Pages::url does not exist or is not callable in this context (in C:\xampp\htdocs\processwire-master\wire\core\Wire.php line 519)
+2019-03-12 11:32:32	admin_bruno	http://localhost/processwire-master/login/	Method Session::url does not exist or is not callable in this context (in C:\xampp\htdocs\processwire-master\wire\core\Wire.php line 519)
+2019-03-12 11:41:19	admin_bruno	http://localhost/processwire-master/login/	Method Pages::url does not exist or is not callable in this context (in C:\xampp\htdocs\processwire-master\wire\core\Wire.php line 519)
+2019-03-12 11:42:42	admin_bruno	http://localhost/processwire-master/login/	Unknown Selector operator: '' -- was your selector value properly escaped?  (in C:\xampp\htdocs\processwire-master\wire\core\Selectors.php line 419)
+2019-03-20 10:08:26	guest	http://localhost/processwire-master/	Unknown Selector operator: '' -- was your selector value properly escaped?  (in C:\xampp\htdocs\processwire-master\wire\core\Selectors.php line 419)

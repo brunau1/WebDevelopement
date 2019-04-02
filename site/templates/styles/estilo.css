@@ -1,0 +1,165 @@
+*, ::after, ::before{
+	box-sizing: border-box;
+}
+
+html, body{ height: 100%; }
+
+body{
+	font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial, Helvica, sans-serif;
+	font-size: 16px;
+
+	margin: 0;
+
+	background-image: url("../../assets/imagens/fundo2.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+a{
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1em;
+}
+
+nav{
+	margin-bottom: 1em;
+	font-size: 1.1em;
+}
+
+.navigation-bar a{
+	text-decoration: none;
+	color: white;
+	margin-left: 10px; 
+}
+
+.navigation-bar{
+	position: relative;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	/* flex-wrap: wrap; */
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	/* -webkit-box-pack: justify; */
+	-ms-flex-pack: justify;
+	/* justify-content: flex-start; */
+	padding: .5rem 1rem;
+	/* text-align: left; */
+	width: 100%;
+	height: all;
+	color: white;
+	font-size: 1.2em;
+	/* margin-bottom: 1.4em; */
+	box-shadow: inset -30px 30px 50px 15px #110125;
+    /*border: 1px solid #110125;*/
+}
+
+.navigation-bar img{
+	padding: none;
+}
+
+.banner-site {
+	/*display: block;*/
+
+	position: relative;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	/* flex-wrap: wrap; */
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	/* -webkit-box-pack: justify; */
+	-ms-flex-pack: justify;
+
+
+	width: 100%;
+	height: 4rem;
+	background-color: #110025;
+	padding: 0;
+	margin: 0;
+}
+
+.banner-site i{
+	/*position: relative; */
+    /* display: inline-block; */
+    font-size: 1.3em;
+    margin-left: 10px;
+    margin-top: 2.5%;
+}
+
+.banner-site span{
+
+	/*position: absolute; */
+    display: inline-block;
+    font-weight: 900;
+    font-size: 3em;
+    color: white;
+    margin: auto;
+    /* margin-left: 32%; */
+    /* padding-top: 2%; */
+    text-shadow: 2px 2px rgb(255,0,85);
+}
+
+.banner-site a{
+	color: white;
+	border: none;
+	text-decoration: none;
+}
+
+.banner-site a:hover{
+	color: rgb(255,0,85);
+}
+
+.line-height{
+	line-height: 0;
+}
+
+.btn-search{
+    color: #ffffff;
+    background-color: #110125;
+    border-color: #ffffff;
+}
+
+.btn-search ::hover ::active{
+	color: #ffffff;
+    background-color: #110125;
+    border-color: #ffffff;
+    box-shadow: outset -30px 30px 50px 15px #110125;
+}
+
+.bg {
+    box-shadow: inset -30px 50px 50px 15px #110125;
+    background-color: transparent;
+}
+
+.link-custom{
+	color: white;
+	border: none;
+	text-decoration: none;
+}
+
+.link-custom a:hover{
+	color: rgb(255,0,85);
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link:hover, .nav-link:active{
+	color: rgb(255,0,85);
+}
+.navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+
+

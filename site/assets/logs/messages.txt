@@ -1,0 +1,11 @@
+2019-03-11 09:52:22	admin_bruno	http://localhost/processwire-master/adminpw/page/add/	Added filedata to DB schema for 'images'
+2019-03-12 10:08:59	admin_bruno	http://localhost/processwire-master/adminpw/page/sort/	Updated sort for 6 pages
+2019-03-12 10:14:18	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "headline" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-03-12 10:14:18	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "summary" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-03-12 10:14:18	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "body" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-03-12 10:14:18	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "sidebar" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-03-12 10:14:18	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "images" data in 2 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-03-14 09:28:51	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "mood" data in 1 row(s) from 1 page(s) using template "basic-page". [page-by-page]
+2019-03-14 10:54:32	admin_bruno	http://localhost/processwire-master/adminpw/setup/template/removeFields	Deleted field "sidebar" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-03-14 11:51:46	admin_bruno	http://localhost/processwire-master/adminpw/setup/field/send-templates-save?id=82	Deleted field "sidebar" data in 0 row(s) from 0 page(s) using template "basic-content". [page-by-page]
+2019-03-14 11:51:46	admin_bruno	http://localhost/processwire-master/adminpw/setup/field/send-templates-save?id=82	Deleted field "sidebar" data in 2 row(s) from 2 page(s) using template "basic-page". [page-by-page]

@@ -1,0 +1,25 @@
+2019-03-11 09:34:37	?	?	Saved module 'SystemUpdater' config data
+2019-03-11 09:34:38	?	?	Saved module info caches
+2019-03-11 09:34:39	guest	http://localhost/processwire-master/http404/	Saved module info caches
+2019-03-11 09:34:39	guest	http://localhost/processwire-master/http404/	Installed module 'ProcessRecentPages'
+2019-03-11 09:34:39	guest	http://localhost/processwire-master/http404/	Saved module info caches
+2019-03-11 09:34:39	guest	http://localhost/processwire-master/http404/	Saved module 'SystemUpdater' config data
+2019-03-11 09:34:40	guest	http://localhost/processwire-master/http404/	Saved module info caches
+2019-03-11 09:34:40	guest	http://localhost/processwire-master/http404/	Installed module 'AdminThemeUikit'
+2019-03-11 09:34:40	guest	http://localhost/processwire-master/http404/	Saved module info caches
+2019-03-11 09:34:56	guest	http://localhost/processwire-master/adminpw/login/	Saved module 'ProcessProfile' config data
+2019-03-11 09:34:57	guest	http://localhost/processwire-master/adminpw/login/	Saved module info caches
+2019-03-11 09:34:57	guest	http://localhost/processwire-master/adminpw/login/	Installed module 'ProcessLogger'
+2019-03-11 09:34:58	guest	http://localhost/processwire-master/adminpw/login/	Saved module info caches
+2019-03-11 09:34:58	guest	http://localhost/processwire-master/adminpw/login/	Installed module 'InputfieldIcon'
+2019-03-11 09:34:58	guest	http://localhost/processwire-master/adminpw/login/	Saved module info caches
+2019-03-11 09:34:58	guest	http://localhost/processwire-master/adminpw/login/	Saved module 'SystemUpdater' config data
+2019-03-11 09:35:03	guest	http://localhost/processwire-master/adminpw/login/	Saved module 'SystemUpdater' config data
+2019-03-11 09:35:04	?	?	Saved module 'SystemUpdater' config data
+2019-03-11 09:35:05	?	?	Saved module info caches
+2019-03-11 09:35:05	admin_bruno	http://localhost/processwire-master/adminpw/?login=1	Saved module 'SystemUpdater' config data
+2019-03-11 09:35:05	admin_bruno	http://localhost/processwire-master/adminpw/page/?login=1	Saved module 'SystemUpdater' config data
+2019-03-11 09:35:07	?	?	Saved module info caches
+2019-03-11 09:35:07	?	?	Saved module 'SystemUpdater' config data
+2019-03-11 09:35:08	?	?	Saved module info caches
+2019-03-11 09:35:08	admin_bruno	http://localhost/processwire-master/adminpw/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
